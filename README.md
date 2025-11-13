@@ -3,6 +3,10 @@
 AI Khabri is an end-to-end news intelligence platform that fetches real-time news from the web and generates concise summaries using Large Language Models.
 It combines a FastAPI backend, Streamlit frontend, and Serper API-powered Google News scraper.
 
+## 🎥 Demo
+
+https://github.com/Adarsh809/AI-Khabari/blob/main/demo.mp4
+
 ---
 
 ## Features
@@ -129,3 +133,4 @@ Response:
 
 ## License
 Open-source and free to modify.
+
