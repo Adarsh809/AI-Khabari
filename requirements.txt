@@ -1,0 +1,32 @@
+# === Core ===
+python-dotenv
+requests
+beautifulsoup4
+pydantic
+
+# === Async / Retry Utilities ===
+aiolimiter
+tenacity
+httpx
+
+# === Web Backend ===
+fastapi
+uvicorn
+
+# === LLM / AI Integrations ===
+langchain
+langchain-core
+langchain-anthropic
+langgraph
+ollama
+langchain-groq
+
+# === Audio / TTS ===
+elevenlabs
+gTTS
+
+# === Frontend (Optional) ===
+streamlit
+
+# === Typing / Utilities ===
+typing-extensions
