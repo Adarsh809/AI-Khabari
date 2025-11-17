@@ -5,7 +5,7 @@ It combines a FastAPI backend, Streamlit frontend, and Serper API-powered Google
 
 ## 🎥 Demo
 
-https://github.com/Adarsh809/AI-Khabari/blob/main/demo.mp4
+https://drive.google.com/file/d/1KqgJGrCrzpX7xTFdTnX3gk4hScCxTtIb/view?usp=sharing
 
 ---
 
@@ -133,4 +133,5 @@ Response:
 
 ## License
 Open-source and free to modify.
+
 
